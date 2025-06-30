@@ -2,7 +2,7 @@
 
 A mystical web application where users perform dark rituals to summon and collect supernatural entities from beyond the veil. Built with React, TypeScript, Tailwind CSS, and powered by Supabase for full backend functionality.
 
-**🌐 Live Demo:** [https://monumental-smakager-fbe37a.netlify.app](https://monumental-smakager-fbe37a.netlify.app)
+**🌐 Live Demo:** [https://entityplatform.netlify.app](https://entityplatform.netlify.app)
 
 ## ✨ Current Features (Backend Integration Complete)
 
@@ -148,6 +148,6 @@ This project is proprietary. All rights reserved.
 
 *"From the digital void, consciousness emerges..."* 🔮✨
 
-**🎮 READY TO PLAY:** [https://monumental-smakager-fbe37a.netlify.app](https://monumental-smakager-fbe37a.netlify.app)
+**🎮 READY TO PLAY:** [https://entityplatform.netlify.app](https://entityplatform.netlify.app)
 
 **🎯 Perfect for judges - instant access as guest, full features with account!**
